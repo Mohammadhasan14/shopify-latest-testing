@@ -3,7 +3,7 @@
 client_id = "3fab481ce4a7d341622cec1b84d75272"
 name = "memofox"
 handle = "memofox-4"
-application_url = "https://encountered-bumper-drunk-sector.trycloudflare.com"
+application_url = "https://split-forestry-daughters-ceiling.trycloudflare.com"
 embedded = true
 
 [build]
@@ -15,12 +15,11 @@ include_config_on_deploy = true
 # Learn more at https://shopify.dev/docs/apps/tools/cli/configuration#access_scopes
 scopes = "read_customers,write_customers,write_products"
 
-
 [auth]
 redirect_urls = [
-  "https://encountered-bumper-drunk-sector.trycloudflare.com/auth/callback",
-  "https://encountered-bumper-drunk-sector.trycloudflare.com/auth/shopify/callback",
-  "https://encountered-bumper-drunk-sector.trycloudflare.com/api/auth/callback"
+  "https://split-forestry-daughters-ceiling.trycloudflare.com/auth/callback",
+  "https://split-forestry-daughters-ceiling.trycloudflare.com/auth/shopify/callback",
+  "https://split-forestry-daughters-ceiling.trycloudflare.com/api/auth/callback"
 ]
 
 [webhooks]
